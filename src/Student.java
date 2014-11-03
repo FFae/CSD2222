@@ -7,8 +7,8 @@
 
 public class Student {
 
-	private String  name;       // name has	default	value null
-	private int     age;        // student name
+	private String  name;       //name has	default	value null
+	private int     age;        //student name
 	private String  programme;  //student programme
 	private char    gender;     //student gender
 	
