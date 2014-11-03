@@ -11,7 +11,7 @@ public class Student {
 	private int     age;        // student name
 	private String  programme;  //student programme
 	private char    gender;     //student gender
-	
+	private char    gender2;     //student gender
 	
 	// construct a student
 	public Student(String name, int age, String programme, char gender){
